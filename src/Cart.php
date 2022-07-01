@@ -1,5 +1,8 @@
 <?php
 
+namespace App;
+
+
 class Cart
 {
     public float $price;

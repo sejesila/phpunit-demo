@@ -1,7 +1,5 @@
 <?php
-
-require 'Cart.php';
-
+use App\Cart;
 class CartTest extends \PHPUnit\Framework\TestCase
 {
     public function testCorrectNetPriceIsReturned(){
